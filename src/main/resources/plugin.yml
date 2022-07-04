@@ -1,0 +1,7 @@
+name: Slimey
+version: '${project.version}'
+main: me.cooleg.slimey.Slimey
+api-version: 1.19
+description: Simple /slime command to see if a chunk is a slime chunk.
+commands:
+  slimechunk:
